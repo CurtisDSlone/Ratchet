@@ -10,8 +10,8 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/jsonx"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/jsonx"
 )
 
 // Validator is a response predicate on an `action` node (the side-effect's success check).

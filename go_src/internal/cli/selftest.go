@@ -6,16 +6,16 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/scanset/Ratchet/internal/chain"
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/dispatch"
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/jsonx"
-	"github.com/scanset/Ratchet/internal/markdown"
-	"github.com/scanset/Ratchet/internal/meta"
-	"github.com/scanset/Ratchet/internal/model"
-	"github.com/scanset/Ratchet/internal/oracle"
-	"github.com/scanset/Ratchet/internal/search"
+	"github.com/CurtisDSlone/Ratchet/internal/chain"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/dispatch"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/jsonx"
+	"github.com/CurtisDSlone/Ratchet/internal/markdown"
+	"github.com/CurtisDSlone/Ratchet/internal/meta"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/oracle"
+	"github.com/CurtisDSlone/Ratchet/internal/search"
 )
 
 // SelfTest runs the deterministic core checks in-process (no model, no instance dir) and prints a

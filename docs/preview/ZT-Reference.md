@@ -2,7 +2,7 @@
 
 **Making the agent loop verifiable, one gated action at a time**
 
-ScanSet Inc
+Curtis Slone
 
 ---
 

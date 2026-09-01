@@ -6,10 +6,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/scanset/Ratchet/internal/model"
-	"github.com/scanset/Ratchet/internal/runrec"
-	"github.com/scanset/Ratchet/internal/snapshot"
-	"github.com/scanset/Ratchet/internal/version"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/runrec"
+	"github.com/CurtisDSlone/Ratchet/internal/snapshot"
+	"github.com/CurtisDSlone/Ratchet/internal/version"
 )
 
 const (

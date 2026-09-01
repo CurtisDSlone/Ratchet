@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/model"
-	"github.com/scanset/Ratchet/internal/runrec"
-	"github.com/scanset/Ratchet/internal/snapshot"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/runrec"
+	"github.com/CurtisDSlone/Ratchet/internal/snapshot"
 )
 
 type fakeGen struct{}

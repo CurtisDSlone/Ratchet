@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
 )
 
 // BuildRefs builds the cross-table refs map for an instance: every schema in schemas/ that declares a

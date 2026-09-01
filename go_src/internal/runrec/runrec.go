@@ -13,8 +13,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
 )
 
 // SchemaVersion is stamped on every record so readers can evolve with the format.

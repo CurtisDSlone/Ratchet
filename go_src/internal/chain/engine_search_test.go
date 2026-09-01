@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
 )
 
 // A search binding's target library may be a slot ("{{kb}}"), resolved at runtime against the KB

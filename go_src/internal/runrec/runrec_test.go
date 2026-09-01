@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/scanset/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
 )
 
 func TestSha256Hex(t *testing.T) {

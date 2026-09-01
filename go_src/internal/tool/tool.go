@@ -16,9 +16,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/scanset/Ratchet/internal/config"
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/config"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
 )
 
 // ResolveArgv builds the actual argv to run for a tool: an explicit `command` as-is, or a `script`

@@ -2,7 +2,7 @@
 
 **Putting an autonomous infrastructure agent behind a deterministic assurance layer, worked end to end**
 
-ScanSet Inc
+Curtis Slone
 
 > **Status.** Companion to `ZT-Reference.md` (the architecture). This document is the concrete
 > implementation: a worked enterprise scenario with the assurance layer in place, the components it

@@ -15,8 +15,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/scanset/Ratchet/internal/jsonx"
-	"github.com/scanset/Ratchet/internal/meta"
+	"github.com/CurtisDSlone/Ratchet/internal/jsonx"
+	"github.com/CurtisDSlone/Ratchet/internal/meta"
 )
 
 // BuildCorpus builds the corpus for a directory: one chunk per text file (id = forward-slashed

@@ -1,10 +1,10 @@
 package dispatch
 
 import (
-	"github.com/scanset/Ratchet/internal/config"
-	"github.com/scanset/Ratchet/internal/jsonx"
-	"github.com/scanset/Ratchet/internal/model"
-	"github.com/scanset/Ratchet/internal/tool"
+	"github.com/CurtisDSlone/Ratchet/internal/config"
+	"github.com/CurtisDSlone/Ratchet/internal/jsonx"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/tool"
 )
 
 // doExec runs a declared tool by name, or a pasted shell command; output enters context.

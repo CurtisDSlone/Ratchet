@@ -12,9 +12,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/runrec"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/runrec"
 )
 
 // DefaultIgnore are directory names skipped when snapshotting/diffing/restoring, so a large

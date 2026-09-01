@@ -5,8 +5,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/scanset/Ratchet/internal/config"
-	"github.com/scanset/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/config"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
 )
 
 func TestSubstitute(t *testing.T) {

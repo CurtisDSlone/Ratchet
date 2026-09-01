@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
 )
 
 // Statelessness guarantee (see docs/concepts/context-binding.md#stateless-by-construction): a node sees

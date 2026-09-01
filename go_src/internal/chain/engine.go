@@ -13,17 +13,17 @@ import (
 	"strings"
 	"time"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/instance"
-	"github.com/scanset/Ratchet/internal/jsonx"
-	"github.com/scanset/Ratchet/internal/meta"
-	"github.com/scanset/Ratchet/internal/model"
-	"github.com/scanset/Ratchet/internal/ollama"
-	"github.com/scanset/Ratchet/internal/runrec"
-	"github.com/scanset/Ratchet/internal/search"
-	"github.com/scanset/Ratchet/internal/snapshot"
-	"github.com/scanset/Ratchet/internal/tool"
-	"github.com/scanset/Ratchet/internal/version"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/instance"
+	"github.com/CurtisDSlone/Ratchet/internal/jsonx"
+	"github.com/CurtisDSlone/Ratchet/internal/meta"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/ollama"
+	"github.com/CurtisDSlone/Ratchet/internal/runrec"
+	"github.com/CurtisDSlone/Ratchet/internal/search"
+	"github.com/CurtisDSlone/Ratchet/internal/snapshot"
+	"github.com/CurtisDSlone/Ratchet/internal/tool"
+	"github.com/CurtisDSlone/Ratchet/internal/version"
 )
 
 // Generator is what the engine needs from the dispatcher: the Ollama URL and a streaming-aware

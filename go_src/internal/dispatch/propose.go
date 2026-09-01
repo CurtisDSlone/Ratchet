@@ -5,10 +5,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/scanset/Ratchet/internal/jsonx"
-	"github.com/scanset/Ratchet/internal/model"
-	"github.com/scanset/Ratchet/internal/ollama"
-	"github.com/scanset/Ratchet/internal/oracle"
+	"github.com/CurtisDSlone/Ratchet/internal/jsonx"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/ollama"
+	"github.com/CurtisDSlone/Ratchet/internal/oracle"
 )
 
 // Validate runs the oracle on a table: against tsv if non-empty, else samples/<table>.txt on disk.

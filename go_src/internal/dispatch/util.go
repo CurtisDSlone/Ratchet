@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/scanset/Ratchet/internal/conventions"
-	"github.com/scanset/Ratchet/internal/markdown"
-	"github.com/scanset/Ratchet/internal/model"
+	"github.com/CurtisDSlone/Ratchet/internal/conventions"
+	"github.com/CurtisDSlone/Ratchet/internal/markdown"
+	"github.com/CurtisDSlone/Ratchet/internal/model"
 )
 
 // parseRedirect parses a trailing " > path" redirect off a command's argument. The target must look
